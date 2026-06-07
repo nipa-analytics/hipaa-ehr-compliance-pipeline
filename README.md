@@ -369,7 +369,4 @@ A real HIPAA-compliant system would require:
 
 ---
 
-## 12. Disclaimer
-
-This project is for educational, research, and portfolio purposes only. It does not process real patient data and should not be used as a production compliance system.
 
