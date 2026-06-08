@@ -1,5 +1,11 @@
 # HIPAA EHR Compliance Pipeline
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![HIPAA](https://img.shields.io/badge/HIPAA-Compliant-green)
+![FHIR](https://img.shields.io/badge/HL7-FHIR%20R4-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+
 A healthcare data engineering and compliance analytics project demonstrating how Electronic Health Record information can be processed through HIPAA-aligned privacy, security, audit, access-control, and breach-detection workflows.
 
 This project uses synthetic FHIR-style EHR data and simulates key HIPAA Technical Safeguards including:
