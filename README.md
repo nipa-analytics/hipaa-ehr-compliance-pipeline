@@ -128,6 +128,10 @@ Sensitive fields may include:
 output/reports/deidentified_patients.csv
 ```
 
+## Dashboard Preview
+
+![HIPAA Compliance Dashboard](hipaa_compliance_dashboard.png)
+
 ### Portfolio Value
 
 This demonstrates understanding of healthcare privacy, PHI handling, and responsible analytics preparation before downstream data use.
